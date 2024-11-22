@@ -25,7 +25,7 @@ To view the site locally, follow these steps:
 3. Open `index.html` in your browser.
 
 ## Custom Domain
-This website can be accessed at `markpenhallgolf.co.za` once the custom domain is configured through Azure.
+This website can be accessed at `markpenhallgolf.com` once the custom domain is configured through Azure.
 
 ## Future Enhancements
 - Adding a booking form for direct lesson inquiries.
